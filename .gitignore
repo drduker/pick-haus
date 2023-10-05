@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+.private/
+.venv/
+*.tfvars
+.decrypted~*
+*.agekey
+*.pub
+*.key
+*.pem
+kubeconfig*
+config.xml
